@@ -4,7 +4,7 @@
 
 > Cocktail napkin math uses brute force/ basic mathmatics to better understand our world. This newsletter reviews interesting tidbits in Technology, Math, Cognitive Sciences, Business.
 
-####Subscribe to this newsletter by clicking the watch releases above^^
+#### Subscribe to this newsletter by clicking the watch releases above^^
 
 ## Ideas: 
 
@@ -45,7 +45,7 @@ Microsoft has been pleanty busy this year. The move to make edge Chromium based 
 
 Duck Duck Go (love them) performed a study on the Google Filter Bubble... the results were interesting to say the least. And the Data has been open-sourced.
 
-###[Lyft Files for IPO](https://www.reuters.com/article/us-lyft-ipo/ride-hailing-firm-lyft-inc-files-for-ipo-idUSKBN1O51AA)
+### [Lyft Files for IPO](https://www.reuters.com/article/us-lyft-ipo/ride-hailing-firm-lyft-inc-files-for-ipo-idUSKBN1O51AA)
 
 Lyft makes a strategic move to IPO before Uber. The Lyft/ Uber dichotomy is a fascinating study in what makes a really good investment. Uber is 
 
