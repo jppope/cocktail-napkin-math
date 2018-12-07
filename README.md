@@ -1,6 +1,6 @@
 # Cocktail Napkin Math Newsletter 
 
-![Newsletter Hero](/Users/jonpauluritis/Downloads/one.jpg)
+![Newsletter Hero](img/one.jpg)
 
 > Cocktail napkin math uses brute force/ basic mathmatics to better understand our world. This newsletter reviews interesting tidbits in Technology, Math, Cognitive Sciences, Business.
 
