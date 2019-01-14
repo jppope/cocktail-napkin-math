@@ -1,8 +1,6 @@
 # Cocktail Napkin Math Newsletter
 
-
-
-![Newsletter Hero](/Users/jonpauluritis/Desktop/notes/cocktailNapkinMath/img/hallway.jpg)
+![Newsletter Hero](./img/cocktailNapkin.jpg)
 
 > Cocktail napkin math uses brute force/ basic mathematics to better understand our world. This newsletter reviews interesting tidbits in Technology, Math, Cognitive Sciences, Business.
 
@@ -10,59 +8,47 @@
 
 ## Ideas
 
-* I noticed that there is a large "cognitive" dissonance between the number of  PhDs there are in the machine learning space, and how many PhDs that employers believe there are. It's projected that there are roughly 2000 CS PhDs graduating each year (similar for related disciplines - e.g. Statistics). Assuming various areas of study in C.S. plus persons looking for academic work... My guess would be that there are probably 1000 PhDs tops that could become part of our Machine Learning/ AI workforce... and yet somehow **employers think it reasonable to have a PhD as a requirement.** Asymmetries like this cause some quacky effects - so it's worth watching.
-
-* Considering one's self a leader might be a mistake. Ask yourself if you are actually a leader or if you are just surrounded by inferior people instead of peers?
-
-* There are only 199,235 people that are really "past the point of no return financially"... meaning they really can't spend enough to send them back to join the rest of us...Ultra-High Net Worth Individuals are defined by >$30M in liquid assets and two-thirds are "Self Made". The smallness of the group was the main surprise for me, but also thinking about the extreme difficulty in spending all of that money without a complete lack of responsibility (Brewsters Millions scenario)... surprisingly hard even as a thought experiment. 
-
-* Bernie Madoff has been in the News this week a lot, so I thought I would take a peek at how much "White Collar" crime there actually is in the United States. I came to find out that "White Collar Crime" is almost entirely fraud (it does not include cyber crime), but the surprising aspect of it is that it mainly resides in places where we have our largest, (lets call them) "social contract issues": medical Fraud, education fraud, investment fraud. Apparently there is something that makes people particularly venerable in these areas. Its estimated that there will be roughly 5500 prosecutions (started at least) by the end of the year according to Syracuse University. Which assuming they were all to be convicted (doubtful) wouldn't even be a percentage point of the 2.3 million Americans are currently incarcerated. 
-
+- I'm wondering if the decline of hats is related to an increase in car use. The time periods seem to correlate. Which also makes me wonder if a rise in urban living will increase hat sales/ use.
+- Next time a Doctor gives you a percentage ask them what the sample size is and if you can see the anonymized data. 99% probability that they are making it up, much like this probability. 
 
 ## The Top Ten
 
-### [The Manhattan Project was actually a Manufacturing Project?](http://blog.nuclearsecrecy.com/2013/05/17/the-price-of-the-manhattan-project/)
+### [Are Coders Worth it?](https://aeon.co/essays/dad-s-company-made-burgers-mine-just-eats-them)
 
-While we all love the romantic story of a ton of brilliant scientists in New Mexico saving the free world from tyranny... turns out the true heroics happened on the manufacturing side??? What???
+Aeon piece that fails to capture much of the nuance that comes with the information economy. I'm mainly posting it to repost [an interesting response](https://meltingasphalt.com/wealth-the-toxic-byproduct/), [a classic post](https://www.stilldrinking.org/programming-sucks), [a concept adjacent to](https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/), and then eventually [my own response]. 
 
-### [Explore World Population in 3D](https://pudding.cool/2018/12/3d-cities-story/index.html)
+### [Fight Club Style Tweet about Corn](https://twitter.com/SwiftOnSecurity/status/1074810043495796736)
 
-Beautiful project from **The Pudding** to show the world in a different type of projection. 
+Do you think you know about corn? You don't. Welcome to Jack's American Agricultural solution. 
 
-### [Our Congressmen are Technologically Incompetent](https://www.mediaite.com/online/top-five-most-ridiculous-moments-from-google-ceo-sundar-pichais-congressional-hearing/)
+### [US Healthcare is expensive because it's expensive](https://www.jhsph.edu/news/news-releases/2019/us-health-care-spending-highest-among-developed-countries.html)
 
-Watching the **Sundar Pichai** Testimony is incredibly painful, when you start to consider that these are the same congressmen that are voting on issues like the environment, The future of Artificial Intelligence, Military Budget, Cybersecurity laws, etc. This article lays out the top 5 facepalms by the panel that day.
+Johns Hopkins performed an incredibly deep study to figure out that US healthcare is expensive because we charge more (AND we get zero extra value for that money). In a related article, Vox shows that [Emergency rooms are basically stealing from people](https://www.vox.com/health-care/2018/12/18/18134825/emergency-room-bills-health-care-costs-america) with the way that they charge people. 
 
-### [Real world Economic Experiment in Colorado Springs](https://www.politico.com/magazine/story/2017/06/30/colorado-springs-libertarian-experiment-america-215313)
+### [Github's Privates](https://blog.github.com/2019-01-07-new-year-new-github/)
 
-Politico looks at the net result of Colorado Springs "running government like a business". I'm sure this will shock everyone when I tell you that it didn't go as well as wealthy businessman turned politician thought it would. 
+The world has gotten weird with Microsoft driving innovation. Minor blip on the Microsoft/ Github radar but seems like it could be another in a series of Microsoft victories. Github makes private repos free for small teams. 
 
-### [Equifax Breach](https://oversight.house.gov/wp-content/uploads/2018/12/Equifax-Report.pdf)
+### [Education's Business Model](https://www.conradbastable.com/essays/the-uncharity-of-college-the-big-business-nobody-understands)
 
-The "official" government review of the Equifax breech is incredibly frustrating. Equifax basically stood on their pile of money and said this technology stuff is too hard to get right. 
+Great Data Journalism Piece about inferring "the education business model"
 
-###[Enchiladas are Sushi](http://cuberule.com/) 
+### [Stopping the Show with Drones](https://www.abc.net.au/news/2018-12-21/gatwick-airport-delays-drones-troops-deployed/10645708)
 
-There's actually a surprising amount of historical literature about the characteristics that define our most common foods. This article digs deep to make definitions geometric. 
+A little slow on getting this one up... It may not have been new but it was new to me... Apparently drones caused a major London Airport to completely shut down... in what could be one of the first "terrorist" (might be a slight exaggeration) use of drones. 
 
-### [How Much Traffic is There Actually on Black Friday](https://blog.cloudflare.com/the-truth-about-black-friday-and-cyber-monday/)
+### [Observations About Power Laws](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
 
-Cloudflare took up a data journalism piece to show the true impact of "the busiest weekend in retail". And shockingly enough... there's less activity than you might think. 
+Reddit discussion about power laws and how it relates to modern consumable reading material. 
 
-### [Where are all the Old Coders](http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn)
+### [Should You Even Blog?](https://sparktoro.com/blog/can-you-still-blog-your-way-to-visibility-credibility/)
 
-Uncle Bob Martin's observation about the effects on the soft-side of the business 
+Data driven article without much depth (Sorry Rand). The Article shows that blogging is useful to people that its useful to... but with graphs. It is a nice macro view to help those of us that like writing whether or not we're wasting our time.
 
-### [Gift Guide for the Design-minded](https://design-milk.com/2018-gift-guide-design-milk-tech/?fbclid=IwAR2Zy9jyRK9ofXi-xPI67oeDY6gUdodMjgZaOmRFwG-r5XiIwOWIQvq3AOs)
+### [And They Said You'd Never Use Math After Highschool!](https://twitter.com/fermatslibrary/status/1082273172114862083)
 
-Of all the gift guides I looked at... this one was the most put together I've seen. 
+Cocktail Napkin Math LOVES this tweet. You should too.
 
-### [WTF Google?](https://www.namepros.com/blog/confirmed-duck-com-transfers-to-duckduckgo.1113728/)
+### [Electric Goes Mainstream When...](https://www.harley-davidson.com/us/en/motorcycles/future-vehicles/livewire.html)
 
-Google gives duck.com to duckduckgo.com. Goodwill or trying to enable competition so they have some argument when the anti-trust hearings start
-
-## Last Minute Gift Guide
-
-* [For Mom: Fifty Shades of Chicken](https://www.amazon.com/gp/product/0385345224)
-* [For Dad/ Musician: Portable Recording Equipment](https://www.amazon.com/gp/product/B00DFU9BRK)
-* [For the Kids: Gund Stuffed Animals](https://gund.com/)
+Harley Davidson releases a crazy cool electric motorcycle. Remember when Elon open-sourced all of Tesla's patents... this is exactly what we were hoping for.
