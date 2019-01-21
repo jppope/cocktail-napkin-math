@@ -22,7 +22,7 @@
 
 A New Bill just got signed into law requiring all "non-sensitive" government data to be available in machine-readable formats by default. 
 
-###[How Big is the AI Market?](https://news.crunchbase.com/news/the-ai-market-is-growing-but-how-quickly-is-tough-to-pin-down/)
+### [How Big is the AI Market?](https://news.crunchbase.com/news/the-ai-market-is-growing-but-how-quickly-is-tough-to-pin-down/)
 
 This is the first attempt I've seen to try and actually figure out how big the AI market is. The Article digs in and tackles the fact that it's pretty hard to call something an AI company. I would expect that there will be some deeper conversations about this in the future. 
 
@@ -54,6 +54,6 @@ How to be a man in 2019.
 
 The government shut down is starting to take some victims. 
 
-###[Pocket Notebooks of Famous Men](https://www.artofmanliness.com/articles/the-pocket-notebooks-of-20-famous-men/)
+### [Pocket Notebooks of Famous Men](https://www.artofmanliness.com/articles/the-pocket-notebooks-of-20-famous-men/)
 
 Thinking I might start carrying a pocket notebook. 
